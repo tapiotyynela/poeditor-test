@@ -2,6 +2,7 @@
 {
   "app_name": "Omapolku",
   "test": {
-    "new_string": "TEST"
+    "new_string": "TEST",
+    "new_string2": "TEST2"
 }
 }
