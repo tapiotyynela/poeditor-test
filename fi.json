@@ -3,6 +3,8 @@
   "app_name": "Omapolku",
   "test": {
     "new_string": "TEST",
-    "new_string2": "TEST2"
+    "new_string2": "TEST2",
+    "new_string3": "TEST3"
+
   }
 }
